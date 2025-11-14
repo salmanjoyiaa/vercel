@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "property-ai-chatbot/package.json",
+      "use": "@vercel/static-build"
+    }
+  ]
+}
