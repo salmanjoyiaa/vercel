@@ -1,1 +1,4 @@
 .vercel
+# ignore dependencies
+**/node_modules
+
